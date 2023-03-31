@@ -12,7 +12,7 @@ Your team: group number 9
 
   - Student 2: Anisse Ezzebdi `AnisseEzzebdi`
   
-  - Student 3: Yousef Khoubrane
+  - Student 3: Yousef Khoubrane `Khoubrane-Yousef`
 
   - Student 4: Hamza Thaifa `HTHAMZA`
 
