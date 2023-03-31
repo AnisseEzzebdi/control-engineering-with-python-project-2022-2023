@@ -14,7 +14,7 @@ Your team: group number 9
   
   - Student 3: Yousef Khoubrane
 
-  - Student 4: Hamza Thaifa
+  - Student 4: Hamza Thaifa `HTHAMZA`
 
 ## Getting Started
 
